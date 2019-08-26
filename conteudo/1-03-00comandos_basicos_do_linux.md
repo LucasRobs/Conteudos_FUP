@@ -1,0 +1,1 @@
+[sempreupdate](https://sempreupdate.com.br/10-comandos-basicos-que-todo-iniciante-deve-conhecer/)
