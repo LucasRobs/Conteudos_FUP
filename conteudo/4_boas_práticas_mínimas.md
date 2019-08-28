@@ -22,7 +22,7 @@ De seguida são ilustrados os dois estilos de indentação mais frequentes. O n�
 **Exemplo eparadas**
 
 Exemplo 1
-```
+```c
 if (condição)
 {
     instruções
