@@ -7,8 +7,6 @@ Organize seu código, sempre declarando as variáveis logo após o título da ro
 ****
 **Sempre idente corretamente**
 
-[Estilo de Indentação](http://intprogc.pbworks.com/w/page/11211363/Estilo%20Indenta%C3%A7%C3%A3o)
-
 O objectivo da indentação é o de tornar os programas mais facilmente legíveis. A utilização de regras de indentação consistentes permite tornar evidente a estrutura global do programa através de uma simples inspecção visual.
 
  
@@ -125,6 +123,7 @@ switch (expressão inteira){
         instruções
 }
 ```
+[Estilo de Indentação](http://intprogc.pbworks.com/w/page/11211363/Estilo%20Indenta%C3%A7%C3%A3o)
 *****
 **Escolha variáveis e funções com nomes descritivos**
 

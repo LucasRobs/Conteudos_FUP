@@ -1,15 +1,28 @@
-**Linguagens de programação**
-- À semelhança de uma linguagem humana, uma linguagem de programação permite-nos comunicar,
-não com Humanos, mas com computadores ou qualquer outro sistema computorizado. Linguagens
-de programação são constituídas por uma “gramática” que contém todas as regras sintáticas utilizadas. Através da utilização dessas regras, podemos comunicar instruções a um computador, ou
-seja, instruir-lhe a fazer algo. É assim que os programas são criados.
-Definição 1. Regras sintáticas consistem num conjunto de normas a seguir que indicam como se
-deve estruturar o código, ou seja, como se deve construir o código.
-Existem inúmeras linguagens de programação: algumas de propósito geral, ou seja, sem ter
-uma finalidade específica. Por outro lado, existem outras criadas para um domínio específico. A
-linguagem de programação C é um exemplo de uma linguagem de programação de propósito geral.
-Por outro lado a Wolfram Language1
-, é uma linguagem de domínio específico, multi-paradigma
-(abordado mais à frente) e dedicada à Matemática.
+## A linguagens de programação
 
-**PPL** pagina 9
+Muitas linguagens foram desenvolvidas e por muitos anos utilizadas com diferentes objetivos e características, tais como: Fortran, Cobol, Basic, Algols, Pascal e etc. Mas o que é C? C é o nome de uma linguagem atualmente utilizada em diferentes áreas e propósitos. Faz parte hoje de uma linguagem considerada avançada, desenvolvida nos laboratórios Bell nos anos 70.
+
+A definição formal da linguagem pode ser encontrada no livro “The C Programming Language” de Brian W. Kernighan e Dennis M. Ritchie (os pais da linguagem). Nos anos 80 iniciou-se um trabalho de criação de um padrão chamado C ANSI (American National Standardization Institute).
+É uma linguagem de nível médio, pois pode-se trabalhar em um nível próximo ao da máquina ou como uma linguagem de alto nível como outras existentes.
+
+Com o C podemos escrever programas concisos, organizados e de fácil entendimento, mas infelizmente a falta de disciplina pode gerar programas mal escritos, difíceis de serem lidos e compreendidos. Não se deve esquecer que C é uma linguagem para programadores, pois impõe poucas restrições ao que pode ser feito. O C é amigável e estruturado para encorajar bons hábitos de programação; cabe ao programador exercitar esses hábitos.
+
+A necessidade de escrever programas, que façam uso de recursos da linguagem de máquina de uma forma mais simples e portátil, fez com que a principal utilização do C fosse a reescrita do sistemas operacional UNIX. Sua indicação é principalmente no desenvolvimento de programas, tais como: compiladores, interpretadores, editores de texto; banco de dados. Computação gráfica, manipulação e processamento de imagens, controle de processos, …
+
+Principais características da linguagem C a serem ponderadas:
+
+- Portabilidade
+
+- Geração de códigos executáveis compactos e rápidos
+
+- Interação com o sistema operacional
+
+- Facilidade de uso (através de ambientes como o Borland C++ 5.0)
+
+- inguagem estruturada
+
+- Confiabilidade
+
+- Simplicidade
+
+##### [Dainf](http://www.dainf.cefetpr.br/~robson/prof/common/c/aspec.htm)
